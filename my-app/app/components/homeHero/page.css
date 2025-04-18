@@ -1,0 +1,80 @@
+.hero {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.hero-in {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-in-slider {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-description {
+  position: absolute;
+  bottom: 60px; /* Adjust to give space for the image info */
+  left: 20px;
+  color: white;
+  font-size: 1.2rem;
+  z-index: 10;
+}
+
+.image-info {
+  position: absolute;
+  bottom: 70px;
+  left: 50px;
+  font-size: 1rem;
+  border-radius: 2rem;
+  z-index: 10;
+  backdrop-filter: blur(20px);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.swiper-logo {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+}
+
+.swiper-logo-img {
+  width: 100px;
+  height: 100px;
+}
+
+.global-loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+}
+
+.mySwiper {
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .mySwiper {
+    margin-top: 10%;
+  }
+
+  .swiper-description,
+  .image-info {
+    font-size: 0.9rem; /* Smaller font for mobile */
+    bottom: 30px;
+  }
+
+  .image-info {
+    bottom: 10px;
+  }
+}
