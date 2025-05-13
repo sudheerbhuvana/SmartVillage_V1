@@ -1501,6 +1501,83 @@ const newData = [
             "Date of the activity \nDD-MM-YYYY": "10-03-2024",
             "Number of students participated in such activities": "59",
             "Web Links": "https://drive.google.com/file/d/17hX2HlYy09weiYeI5nJjIQ8T1_Y8HwNC/view?usp=sharing"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Workshop on stress management",
+            "Date of the activity \nDD-MM-YYYY": "17-02-2025",
+            "Number of students participated in such activities": "48",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2Fworkshop%20on%20Workshop%20On%20Stress%20management%20%26%20Anxiety%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Workshop on Rain water Harvesting Techniques",
+            "Date of the activity \nDD-MM-YYYY": "28-02-2025",
+            "Number of students participated in such activities": "48",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2Fworkshop%20on%20Rain%20water%20Harvesting%20Techniques%20%281%29%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Water Saving Practices Campaign",
+            "Date of the activity \nDD-MM-YYYY": "24-02-2025",
+            "Number of students participated in such activities": "20",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2Fwater%20saving%20practices%20campaign%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Vriksharopam Mahotsav",
+            "Date of the activity \nDD-MM-YYYY": "14-02-2025",
+            "Number of students participated in such activities": "35",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2Fvriksharopam%20Mahostsav%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Training on Internet safety",
+            "Date of the activity \nDD-MM-YYYY": "28-02-2025",
+            "Number of students participated in such activities": "41",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2Ftraining%20on%20Internet%20safety%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Toilet sanitation awareness program",
+            "Date of the activity \nDD-MM-YYYY": "15-02-2025",
+            "Number of students participated in such activities": "50",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2FToilet%20sanitation%20Awareness%20programs%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Role of Women in Agriculture",
+            "Date of the activity \nDD-MM-YYYY": "28-02-2025",
+            "Number of students participated in such activities": "20",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2Fprogram%20on%20Role%20of%20women%20in%20agriculture%20%281%29%20%281%29%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Library Development Program",
+            "Date of the activity \nDD-MM-YYYY": "15-02-2025",
+            "Number of students participated in such activities": "50",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2FLibrary%20development%20program%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "First-aid training workshop",
+            "Date of the activity \nDD-MM-YYYY": "21-02-2025",
+            "Number of students participated in such activities": "1000",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2FFirst%20%2D%20aid%20Training%20workshop%20%28CPR%29%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Farm Machinery Demonstration",
+            "Date of the activity \nDD-MM-YYYY": "24-02-2025",
+            "Number of students participated in such activities": "27",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2FFarm%20machinery%20Demonstration%2Epdf"
+        },
+        {
+            "Year": "2024-25",
+            "Name of the activity": "Computer literacy and skill training Program",
+            "Date of the activity \nDD-MM-YYYY": "17-02-2025",
+            "Number of students participated in such activities": "22",
+            "Web Links": "https://kluniversityin-my.sharepoint.com/personal/venkatasatyanarayana_kluniversity_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvenkatasatyanarayana%5Fkluniversity%5Fin%2FDocuments%2F2024%2D25%20SVR%20REPORTS%2Fcomputer%20Literacy%20and%20skills%20Training%2Epdf"
         }
 
 ];
